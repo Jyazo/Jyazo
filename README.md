@@ -1,6 +1,6 @@
 ## Hi there 👋
-➡ I joined BeCode and just started learning Coding
-⏳This is a new chapter for me to become a junior developer
+- ➡ I joined BeCode and just started learning Coding
+- ⏳This is a new chapter for me to become a junior developer
 
 
 <!--
