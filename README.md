@@ -1,4 +1,7 @@
 ## Hi there 👋
+➡ I joined BeCode and just started learning Coding
+⏳This is a new chapter for me to become a junior developer
+
 
 <!--
 **Jyazo/Jyazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
